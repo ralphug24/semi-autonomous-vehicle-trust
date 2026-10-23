@@ -17,16 +17,17 @@
       "sha256": "c7cea73e3dd73eaf720ab70913467dcafc42bdb0fe5a178299bde6a6058bd1d9"
     },
     {
-      "file": "documents/final-paper-public.pdf",
+      "file": "documents/UGBOKO_Final-Paper.pdf",
       "source_filename": "UGBOKO_Final-Paper.pdf",
-      "sha256": "69a774afcf401dab0c2f7542d31614446d4ccf2c136487b545e5d0aa567ccb5d",
-      "transformation": "Participant excerpts and related personal disclosures omitted; template metadata cleaned; original research pagination retained."
+      "sha256": "3d9c7b47abebf5a086f1d9ca3f66b49ba55de64d947ef19211bf95fa9fbd96dd",
+      "transformation": "None. Exact original bytes."
     }
   ],
   "notes": [
+    "The original final paper is included unchanged at Raphael\u2019s explicit request.",
+    "Page previews render the original paper; the project card uses its title and front page.",
     "The research summary and theme map are portfolio syntheses of the course paper.",
-    "Public summaries use paraphrased themes without quotations or personal disclosures.",
-    "Interview records and the unedited course paper are not included; a public paper copy is provided.",
+    "Raw interview records are not included.",
     "The final paper describes an individual study with two interview participants."
   ]
 }

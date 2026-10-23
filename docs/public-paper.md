@@ -1,7 +1,7 @@
-# Public paper copy
+# Original final paper
 
-The public PDF was prepared from Raphael Ugboko’s December 10, 2025 final course paper. Original research pagination and the method, code definitions, findings and discussion are retained, with participant quotation blocks and related personal disclosures omitted. Omission notes identify the removed passages.
+`documents/UGBOKO_Final-Paper.pdf` is the original supplied final course paper. No text, formatting, template elements or metadata have been changed.
 
-Template watermark, line numbers, placeholder conference headers, publication metadata and unrelated template keywords were replaced with course-manuscript identification. This document is coursework, not a conference publication. The original PDF remains intact in the private source archive.
+SHA-256: `3d9c7b47abebf5a086f1d9ca3f66b49ba55de64d947ef19211bf95fa9fbd96dd`
 
-Screenshots show pages 1, 2, 4 and 6 of this public copy. They are PDF page renders, not recreated layouts.
+The website serves the same file. Screenshots render pages 1, 2, 4 and 6 directly from that original PDF. The project card uses its title and front page.

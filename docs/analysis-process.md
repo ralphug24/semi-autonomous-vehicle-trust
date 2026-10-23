@@ -19,7 +19,7 @@ The final paper describes this process:
 5. Develop themes that explain relationships in the accounts.
 6. Write the findings with attention to research questions, researcher perspective and study limitations.
 
-The final paper includes Table 1, a codebook of eight codes with definitions and supporting quotations. The public paper retains the code names and definitions and omits participant excerpts. This guide summarizes the reported process; it does not introduce a new coding exercise or claim to preserve a version history of the analysis.
+The final paper includes Table 1, a codebook of eight codes with definitions and supporting quotations. The original final paper retains the complete table as supplied. This guide summarizes the reported process; it does not introduce a new coding exercise or claim to preserve a version history of the analysis.
 
 The documented codes cover predictive sensing, emergency intervention, immediate takeover, manual override, visual situational awareness, context-dependent alerts, status updates and onboarding. Read these as interpretations of participant accounts rather than verified claims about vehicle safety.
 

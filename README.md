@@ -16,7 +16,7 @@ This was an individual course project. I developed the research questions and in
 
 ## Start here
 
-1. [Final course paper — public copy](documents/final-paper-public.pdf) retains the original research pagination and omits participant excerpts and related personal disclosures. [Page previews](screenshots/) show the framing, method, codebook and discussion.
+1. [Original final course paper](documents/UGBOKO_Final-Paper.pdf) is included exactly as supplied, without edits. [Page previews](screenshots/) show the framing, method, codebook and discussion.
 2. [Public research summary](research-summary.html) explains the study, findings and design directions. Use the portfolio's [online reader](https://ralphugboko.dev/assets/coursework/sav-trust/research-summary.html), or download the HTML to open locally.
 3. [Blank interview protocol](documents/interview-protocol.pdf) shows the research questions, recruitment plan and interview prompts.
 4. [Revised proposal and interview guide](documents/revised-project-proposal.docx) documents the planned study.
@@ -35,7 +35,7 @@ The study did not test driving performance, measure cognitive load in a task, co
 
 ## Materials and participant confidentiality
 
-Public materials present paraphrased themes without participant quotations or personal disclosures. The unedited course paper and interview records remain private. A public paper copy omits participant excerpts and related personal disclosures, consistent with the confidentiality described in the study introduction. The public summary is a portfolio synthesis of that coursework, not a published or peer-reviewed paper.
+The original final course paper is included exactly as supplied. The accompanying research summary paraphrases the study findings. Raw interview records are not included. The paper is a course manuscript; the summary is a portfolio synthesis.
 
 The theme map is a portfolio diagram summarizing the final paper's three themes. It is not an original coding artifact or a causal model. The original final paper was completed December 10, 2025; this public materials package was prepared October 23, 2026.
 
