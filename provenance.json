@@ -15,12 +15,18 @@
       "file": "documents/revised-project-proposal.docx",
       "source_filename": "Revised Project Proposal.docx",
       "sha256": "c7cea73e3dd73eaf720ab70913467dcafc42bdb0fe5a178299bde6a6058bd1d9"
+    },
+    {
+      "file": "documents/final-paper-public.pdf",
+      "source_filename": "UGBOKO_Final-Paper.pdf",
+      "sha256": "69a774afcf401dab0c2f7542d31614446d4ccf2c136487b545e5d0aa567ccb5d",
+      "transformation": "Participant excerpts and related personal disclosures omitted; template metadata cleaned; original research pagination retained."
     }
   ],
   "notes": [
     "The research summary and theme map are portfolio syntheses of the course paper.",
     "Public summaries use paraphrased themes without quotations or personal disclosures.",
-    "Interview records and the full course paper are not included.",
+    "Interview records and the unedited course paper are not included; a public paper copy is provided.",
     "The final paper describes an individual study with two interview participants."
   ]
 }
