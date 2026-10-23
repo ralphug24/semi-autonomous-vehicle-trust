@@ -1,0 +1,26 @@
+{
+  "course": "Qualitative Research Methods",
+  "instructor": "Dr. Emma Dixon",
+  "course_period": "Fall 2025",
+  "final_course_paper_date": "2025-12-10",
+  "public_package_date": "2026-10-23",
+  "author": "Raphael Ugboko",
+  "public_source_materials": [
+    {
+      "file": "documents/interview-protocol.pdf",
+      "source_filename": "UGBOKO_-_Proposed_study_protocol.pdf",
+      "sha256": "8db58f05d2305b9da44074625f348729f38544c03007a0d7e226b049dd5f9a52"
+    },
+    {
+      "file": "documents/revised-project-proposal.docx",
+      "source_filename": "Revised Project Proposal.docx",
+      "sha256": "c7cea73e3dd73eaf720ab70913467dcafc42bdb0fe5a178299bde6a6058bd1d9"
+    }
+  ],
+  "notes": [
+    "The research summary and theme map are portfolio syntheses of the course paper.",
+    "Public summaries use paraphrased themes without quotations or personal disclosures.",
+    "Interview records and the full course paper are not included.",
+    "The final paper describes an individual study with two interview participants."
+  ]
+}
