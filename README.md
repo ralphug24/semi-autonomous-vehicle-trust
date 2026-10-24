@@ -10,6 +10,12 @@ How do drivers make sense of vehicle communication, negotiate control and develo
 
 I designed and conducted two semi-structured interviews with Tesla drivers and used inductive reflexive thematic analysis to interpret their accounts. The study developed three themes: perceived system competence, negotiated control and communication in context.
 
+## What I learned
+
+The course strengthened my ability to frame a qualitative study, develop and facilitate semi-structured interviews, interpret patterns through reflexive thematic analysis and connect findings to design questions. I also practiced explaining my researcher perspective and the scope of the evidence.
+
+**[Course learning and application guide](docs/course-learning.md)** connects each skill to the protocol, interviews, codebook and final paper, with examples of how I can apply the learning to user research and interface evaluation.
+
 ## My contribution
 
 This was an individual course project. I developed the research questions and interview guide, recruited and interviewed participants, worked through the transcripts, developed themes and wrote the final paper. My researcher perspective and the study's limitations are part of the method.
